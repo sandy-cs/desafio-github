@@ -1,2 +1,2 @@
-# desafio-github
-Criando outro repositório depois de um tempinho
+# Desafio Github
+## Criando outro repositório depois de um tempinho
